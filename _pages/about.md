@@ -128,6 +128,22 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+         <li>[2025-11-17] :: Min-Gyu successfully defends his dissertation! &nbsp; 🎉 🎊 🥂</li>
+         <li>[2025-10-30] :: Matt presents at the National Academies of Engineering on <a href="https://www.youtube.com/watch?v=Em5VB2Jmmuo">AI in water resources</a> &nbsp;✨💧</li>
+         <li>[2025-10-30] :: Min-Gyu's <a href="https://www.youtube.com/watch?v=Em5VB2Jmmuo">「EufoRiA」</a> algal blooms model paper published &nbsp; 🦠 📔</li>
+         <li>[2025-10-07] :: Jeil's sensor placement paper published in <a href="https://www.nature.com/articles/s44221-025-00496-7">Nature Water</a> &nbsp;📡📔</li>
+         <li>[2025-09-15] :: Matt runs JCUD RTC workshop at <a href="https://www.uibk.ac.at/en/congress/udm2025/">UDM 2025</a> &nbsp;🕹️🇦🇹</li>
+         <li>[2025-07-17] :: Jeil's flood forecasting paper published in <a href="https://www.nature.com/articles/s44304-025-00116-0">npj Natural Hazards</a> &nbsp;🌊📔</li>
+         <li>[2025-05-21] :: Matt serves as instructor at the <a href="https://www.cuahsi.org/summer-institute">2025 CUAHSI Summer Institute</a> urban flooding theme &nbsp;🏫👨‍🏫 </li>
+         <li>[2025-05-21] :: Yeji presents at <a href="https://www.ewricongress.org/">EWRI 2025</a> &nbsp;🚰📔</li>
+         <li>[2025-05-21] :: Yeji's stormwater digital twin paper published in <a href="https://www.sciencedirect.com/science/article/abs/pii/S2210670724008060">Sustainable Cities and Society</a> &nbsp;🤖📔</li>
+         <li>[2024-12-13] :: Jeil presents at <a href="https://www.agu.org/annual-meeting-2024">AGU 2024</a> &nbsp;🎤🌎</li>
+     </ul>
+</details>
+
+<details>
+    <summary><u>Older</u></summary>
+     <ul>
          <li>[2024-07-31] :: <a href="https://doi.org/10.1016/j.watres.2024.122201">「Online state estimation in WDSs」</a> published in Water Research &nbsp;🚰📔</li>
          <li>[2024-06-24] :: Yeji and Min-Gyu present at <a href="https://conference.iemss.org/">iEMS 2024</a> &nbsp;💻🎤</li>
          <li>[2024-06-10] :: Aditi's paper published in <a href="https://www.tandfonline.com/doi/full/10.1080/23744731.2024.2351309">STBE</a> &nbsp;🛁📔</li>
@@ -140,12 +156,6 @@ redirect_from:
          <li>[2023-06-14] :: Matt attends <a href="https://www.linkedin.com/posts/venkatesh-merwade-255633b9_the-cybertraining-workshop-led-by-venkatesh-activity-7075566765581205504-ycIa">NSF Cybertraining Workshop</a> &nbsp;🧑‍💻 🦾</li>
          <li>[2023-06-11] :: Jeil attends <a href="https://www.cuahsi.org/summer-institute">CUASHI Summer Institute</a> &nbsp;🏫 🎓</li>
          <li>[2023-05-16] :: Yeji, Jeil, and Min-Gyu pass their qualifying exams! &nbsp;🎉 🎊 🥂</li>
-     </ul>
-</details>
-
-<details>
-    <summary><u>Older</u></summary>
-     <ul>
          <li>[2023-03-27] :: Matt interviewed in <a href="https://thedailytexan.com/2023/03/27/ut-researchers-develop-smart-stormwater-basin-to-prevent-flooding-protect-water-quality/">The Daily Texan</a> &nbsp;🤠 📰</li>
          <li>[2023-03-08] :: Jeil's <a href="https://doi.org/10.1016/j.watres.2023.119825">MPC paper</a> accepted at Water Research &nbsp;📈 📔</li>
          <li>[2023-03-05] :: Jimmy presents at <a href="https://liberalarts.utexas.edu/events/planet-texas-2050-symposium-resilience-research-in-action-3">PT2050 research symposium</a> &nbsp;🎤 🤠</li>
@@ -176,5 +186,6 @@ redirect_from:
 <li><i class="fab fa-github" aria-hidden="true"></i> &nbsp; <a href="https://github.com/future-water">Github</a></li>
 <li><i class="fab fa-youtube" aria-hidden="true"></i> &nbsp; <a href="https://www.youtube.com/playlist?list=PLHovUGJUgy1DvJoaJuBWdF_maE1-YzOfm">Recordings for CE 397: Control Theory</a></li>
 <li><i class="fab fa-youtube" aria-hidden="true"></i> &nbsp; <a href="https://www.youtube.com/playlist?list=PLHovUGJUgy1CGUAPj9UwRGqs83jyNZ73l">Recordings for CE 374U: Urban Stormwater</a> </li>
+<li><i class="fab fa-youtube" aria-hidden="true"></i> &nbsp; <a href="https://www.youtube.com/playlist?list=PLHovUGJUgy1Dtpt8QBt1sxK_SAPasG3g2">Recordings for CE 356: Elements of Hydraulic Engineering</a> </li>
 </ul>
 
