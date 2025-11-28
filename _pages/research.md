@@ -44,6 +44,39 @@ Our goal is to build <i>intelligent water systems</i> that use real-time sensing
 <h1>Projects</h1>
 
 <div class="page__col-wrap">
+<div class="page__lcol"><img src="https://future-water-website.s3.us-east-1.amazonaws.com/img/projects/EPA_logo.png"></div>
+<div class="page__rcol"><h2>Integrated sensing and modelling for improved drought
+management in the US Virgin Islands</h2> This project will increase the resilience of the water system on the island of St. Croix in the U.S. Virgin Islands by improving the management of the water system. It will model the water security of residents with cisterns, and provide recommendations for the management of the public water system to accommodate those with cisterns who need to refill their cistern, or connect to the public system.
+
+<br><br>
+
+Funded by the United States Environmental Protection Agency (2026-2028).
+</div>
+</div>
+
+
+<div class="page__col-wrap">
+<div class="page__lcol"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/nsf_logo_stacked_lockup_white.svg"></div>
+<div class="page__rcol"><h2>SCC-IRG Track 1: Integrating Community Dynamics, Environmental Data, and AI to Advance Green Stormwater Infrastructure Sustainability in Urban Environments</h2> This Smart and Connected Communities (SCC) project supports research on green stormwater infrastructure (GSI) systems through real-time monitoring and AI-driven models. It integrates engineering, computer science, urban planning, policy making, and social science together with government agencies and community organizations in two US cities (Austin and Philadelphia). GSI systems are becoming a prevalent strategy to mitigate stormwater challenges. However, adoption is constrained by a lack of knowledge of life-cycle performance, lack of standard processes for including data into design and policy, and poor understanding of community dynamics. The project aims to develop AI models to advance GSI management by incorporating local community and environment needs, and ultimately enable effective, accurate, efficient, culturally responsive, and automated operations. The models are intended to help broaden community engagement with stormwater solutions while providing important social context for engineers and planners.
+
+<br><br>
+
+Funded by <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2426951">National Science Foundation Award #2426951</a> (2024-2028).
+</div>
+</div>
+
+<div class="page__col-wrap">
+<div class="page__lcol"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/txdot_logo.svg"></div>
+<div class="page__rcol"><h2>Flood assessment system for TxDOT (FAST)</h2> This project will create a Flood Assessment System for TxDOT as a set of real-time flood maps to describe flood impact on the road and bridge system. These maps will be distributed to TxDOT's Maintenance Division staff as web services and tested in large scale flood emergency response exercises conducted with TxDOT Districts. The research team will operate and maintain 80 RQ-30 stream gages to support flood forecasting and decision making. Combining novel gauging techniques with inundation mapping provides real-time streamflow information and transportation flood impacts that enable scenario planning and proactive actions to flood events. This project will be a continuation of Project 0-7095 "Evaluating Improved Streamflow Measurement at TxDOT Bridges."
+
+<br><br>
+
+Funded by <a href="https://rip.trb.org/view/2359105">Texas Department of Transportation Contract 0-7095-01</a> (2024-2027).
+</div>
+</div>
+
+
+<div class="page__col-wrap">
 <div class="page__lcol"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/nsf_logo_stacked_lockup_white.svg"></div>
 <div class="page__rcol"><h2>CAREER: Towards watersheds as water treatment plants through advances in distributed sensing and control</h2> This Faculty Early Career Development (CAREER) award supports research that will explore the potential for real-time control of hydraulic infrastructure to reduce nutrient pollution in river networks. This project will investigate how real-time control of hydraulic infrastructure like dams can treat nutrient pollution by emulating processes from wastewater treatment plants at the watershed scale. This new approach has the potential to substantially reduce nutrient pollution impacts while obviating the need for expensive infrastructure expansion projects. These research efforts will be complemented with an educational plan designed to promote active learning of surface water quality concepts through the development of a new computer simulation game targeted at students of all levels.
 
