@@ -10,9 +10,9 @@ author_profile: false
 <section class="page__content" itemprop="text">
     See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list of publications.
 
-<h2><i class="fas fa-wrench" aria-hidden="true"></i>&nbsp; &nbsp;Preprints and working papers</h2>
+<h2><i class="fas fa-file-alt" aria-hidden="true"></i>&nbsp; &nbsp; Journal articles</h2>
 {% for post in site.publications reversed %}
-  {% if post.type == 'preprint' %}
+  {% if post.type == 'article' %}
 <div class="page__col-wrap">
     <div class="page__lcol"><a href="{{ post.permalink }}"><img src={{post.thumbnail}}></a></div>
 <div class="page__rcol">
@@ -30,10 +30,9 @@ author_profile: false
 <div class="page__col-wrap">
 </div>
 
-
-<h2><i class="fas fa-file-alt" aria-hidden="true"></i>&nbsp; &nbsp; Journal articles</h2>
+<h2><i class="fas fa-wrench" aria-hidden="true"></i>&nbsp; &nbsp;Preprints and working papers</h2>
 {% for post in site.publications reversed %}
-  {% if post.type == 'article' %}
+  {% if post.type == 'preprint' %}
 <div class="page__col-wrap">
     <div class="page__lcol"><a href="{{ post.permalink }}"><img src={{post.thumbnail}}></a></div>
 <div class="page__rcol">
