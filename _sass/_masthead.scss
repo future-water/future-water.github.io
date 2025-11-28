@@ -101,6 +101,7 @@
 
 .masthead__lgroup {
     @include span(2 of 12);
+    margin-right: 0px;
     min-width: 52px;
     max-width: 52px;
 }
