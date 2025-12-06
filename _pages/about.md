@@ -130,7 +130,7 @@ redirect_from:
      <ul>
          <li>[2025-11-17] :: Min-Gyu successfully defends his dissertation! &nbsp; 🎉 🎊 🥂</li>
          <li>[2025-10-30] :: Matt presents at the National Academies of Engineering on <a href="https://www.youtube.com/watch?v=Em5VB2Jmmuo">AI in water resources</a> &nbsp;✨💧</li>
-         <li>[2025-10-30] :: Min-Gyu's <a href="https://www.youtube.com/watch?v=Em5VB2Jmmuo">「EufoRiA」</a> algal blooms model paper published &nbsp; 🦠 📔</li>
+         <li>[2025-10-30] :: Min-Gyu's <a href="https://www.sciencedirect.com/science/article/pii/S1364815225004268">「EufoRiA」</a> algal blooms model paper published &nbsp; 🦠 📔</li>
          <li>[2025-10-07] :: Jeil's sensor placement paper published in <a href="https://www.nature.com/articles/s44221-025-00496-7">Nature Water</a> &nbsp;📡📔</li>
          <li>[2025-09-15] :: Matt runs JCUD RTC workshop at <a href="https://www.uibk.ac.at/en/congress/udm2025/">UDM 2025</a> &nbsp;🕹️🇦🇹</li>
          <li>[2025-07-17] :: Jeil's flood forecasting paper published in <a href="https://www.nature.com/articles/s44304-025-00116-0">npj Natural Hazards</a> &nbsp;🌊📔</li>
